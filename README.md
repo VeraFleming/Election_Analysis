@@ -43,6 +43,6 @@ The text file was created for the Colorado Board of Elections and look like the 
 
 ![election results](https://user-images.githubusercontent.com/105990653/176562457-a428ff3b-6591-46c9-8bb9-9a30449f9060.png)
 
-<img src= "Analysis/election_results" width = "400">    
+<img src= "Analysis/election results.png" width = "400">    
 
     
