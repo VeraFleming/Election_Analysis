@@ -41,8 +41,12 @@ The winner of the election was:
     
 The text file was created for the Colorado Board of Elections and look like the following picture:
 
-![election results](https://user-images.githubusercontent.com/105990653/176562457-a428ff3b-6591-46c9-8bb9-9a30449f9060.png)
-
 <img src= "analysis/election results.png" width = "400">    
+
+## Election-Audit Summary:
+
+Our code can be applied to any election at any time; all we need to do is verify that the file we intend to use contains the same rows as our original 
+file, and then modify the source code by altering the value of the "file_to_load" variable.
+Additionally, in the future we can create a code that would check for new file with election results daily and run our existing code to reveal the winner's name every day, then you can see the trend of the elections.
 
     
