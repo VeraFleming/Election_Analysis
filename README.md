@@ -1,6 +1,9 @@
 # Election_Analysis
 
 ## Project Overview
+
+Work with exsisting statrer code to analyse election_results.csv file using for loops and conditional statements with membership and logical operators find the requested results. Then, print the results to the command line and save them to election_results.txt file.
+
 A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election:
 
 1. Calculate the total number of votes cast.
@@ -9,7 +12,7 @@ A Colorado Board of Elections employee has given us the following tasks to compl
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-But the real challenge was adding some more script to the existing code so that the election commission could see the following:
+After that write additional script to the existing code, so that the election commission could see the following:
 - The voter turnout for each county;
 - The percentage of votes from each county out of the total count;
 - The county with the highest turnout.
@@ -17,7 +20,10 @@ After that we had to print the results to the command line and save them to elec
 
 # Resources
 - Data source: election_results.csv
--Software: Python 3.7.6, Visual Studio Code 1.67.2
+
+- Software: Python 3.7.6, Visual Studio Code 1.67.2
+
+- Tools: Jupyter Notebook
 
 ## Election-Audit Results:
 
